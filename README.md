@@ -50,8 +50,25 @@ Do the mapping on country field, Save and deploy the Fact View.
 
 
 
+# Step 3: Create the Geo Map in SAP Analytics Cloud (SAC)
+
+In SAC, create a new story and select the Analytical Model created in SAP Datasphere as the data source.Add a Geo Map widget to the story. 
+Add layer, in this example we are using bubble type for layering.
 
 
+<img width="1374" height="621" alt="image" src="https://github.com/user-attachments/assets/6caa85cf-28ac-4a59-8341-179cf08eb1f4" />
+
+
+
+In the SAC Geo Map, the Location Dimension is set to the GEO–Location field coming from the Country dimension. Bubble size is driven by Sales, allowing SAC to automatically aggregate values at country level. Bubble color is controlled by Market Classification, making it easy to visually distinguish markets based on business logic derived in Datasphere.
+
+<img width="713" height="1299" alt="image" src="https://github.com/user-attachments/assets/5235b8b7-0a13-45a3-ae6f-0525c23148b4" />
+
+
+
+THANKS! I HOPE THIS BLOG WAS HELPFULL. 
+
+DROP A LIKE FOR MORE :) 
 
 
 
