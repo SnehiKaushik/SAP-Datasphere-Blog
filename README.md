@@ -1,14 +1,9 @@
 # SAP-Datasphere-Blog
 SAP Datasphere with SAC using Business Data Cloud Platform - Blog 
 
-This is E2E blog about the features and usage of SAP Datasphere with SAC using Business Data Cloud Platform. As part of this blog we will be walking through the creation of a Reconciliation report and will cover the build and consumption of a recon report in SAP Datasphere with SAC.
+Sharing a simple and practical way to build a Geo Map using SAP Datasphere and SAP Analytics Cloud, in case it helps anyone working on geo-based analysis.
 
-+Reconciliation report build in Datasphere and SAC that will be covered in this blog:
+# Step-by-step: Building a Geo Map using SAP Datasphere + SAC
 
-  -**Reconciliation report**
-	
-    Overview of Reconciliation report
-	Backend dataflow
-	Report Build
-
-This is build specfic blog on Datasphere with integrated SAC report. 
+Sharing a simple and clean approach to create Geo Maps using SAP Datasphere (DSP) and SAP Analytics Cloud (SAC), in case it helps anyone working on geo-based analysis.
+<img width="516" height="491" alt="image" src="https://github.com/user-attachments/assets/04b3c8c2-399d-41f0-8204-7df917506400" />
